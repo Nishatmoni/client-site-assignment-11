@@ -11,7 +11,7 @@ const Header = () => {
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
         <div className="container">
           <NavLink className="navbar-brand fs-2" to="/Home">
-            Tour
+            World Tour
           </NavLink>
           <button
             className="navbar-toggler"
